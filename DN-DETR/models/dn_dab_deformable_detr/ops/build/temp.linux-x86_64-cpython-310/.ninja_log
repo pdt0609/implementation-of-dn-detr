@@ -1,0 +1,4 @@
+# ninja log v5
+0	10812	1742633229313083418	/kaggle/working/DN-DETR/models/dn_dab_deformable_detr/ops/build/temp.linux-x86_64-cpython-310/kaggle/working/DN-DETR/models/dn_dab_deformable_detr/ops/src/cpu/ms_deform_attn_cpu.o	528472e9efe4ec53
+0	26299	1742633244795351631	/kaggle/working/DN-DETR/models/dn_dab_deformable_detr/ops/build/temp.linux-x86_64-cpython-310/kaggle/working/DN-DETR/models/dn_dab_deformable_detr/ops/src/vision.o	1116a526c51ef80c
+0	30680	1742633249165709624	/kaggle/working/DN-DETR/models/dn_dab_deformable_detr/ops/build/temp.linux-x86_64-cpython-310/kaggle/working/DN-DETR/models/dn_dab_deformable_detr/ops/src/cuda/ms_deform_attn_cuda.o	1868c6c3065ab95f
